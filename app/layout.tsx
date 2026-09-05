@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 export const metadata: Metadata = {
   title: 'Groq Chat Console — Token & Usage Metrics',
   description:
-    'Interfaz de chat interna que se conecta a Groq (Llama 3) y expone el uso de tokens, tiempos de respuesta y métricas del modelo en tiempo real.',
+    'Interfaz de chat interna que se conecta a Groq (Qwen 3.8-27b) y expone el uso de tokens, tiempos de respuesta y métricas del modelo en tiempo real.',
   generator: 'v0.app',
 }
 
